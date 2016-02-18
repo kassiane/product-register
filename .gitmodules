@@ -1,0 +1,6 @@
+[submodule "product-register-gui"]
+	path = product-register-gui
+	url = https://github.com/kassiane/product-register-gui.git
+[submodule "product-register-service"]
+	path = product-register-service
+	url = https://github.com/kassiane/product-register-service.git
